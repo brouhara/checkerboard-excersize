@@ -1,3 +1,5 @@
+Brandon Blair
+
 #DOM Manipulation Exercise
 
 As always, fork and clone this repo.  Submit the link to your fork when you're done.
@@ -17,13 +19,13 @@ Your `index.html` must look like this:
 <html>
 <head>
 	<title>Checkerboard</title>
+
 </head>
 <body>
 	<script type="text/javascript" src="script.js"></script>
 </body>
 </html>
 ```
-
 You are not allowed to add any other elements to the html file, which means that you must create all the tiles dynamically.  Same goes for CSS: no CSS in the html file or in a separate stylesheet.  You must set all the style properties using Javascript.
 
 **Hints**
@@ -34,6 +36,9 @@ You are not allowed to add any other elements to the html file, which means that
 * Each tile's paddingBottom is `11.1%`
 
 **JUST TO REITERATE, YOU WILL NOT WRITE ANY HTML OR CSS FOR THIS EXERCISE.  ONLY JS!!!**
+
+
+
 
 ###Random Colors
 
